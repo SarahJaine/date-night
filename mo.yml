@@ -1,0 +1,4 @@
+domain: datenight
+heroku:
+  staging: date-night-staging
+  production: date-night
